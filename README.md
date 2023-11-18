@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **open source projects**
 
-- 👨‍💻 All of my projects are available at [ahocinemax.github.io](ahocinemax.github.io)
+- 👨‍💻 All of my projects are available at [ahocinemax.github.io](https://ahocinemax.github.io)
 
 - 💬 Ask me about **blockchain technologies**
 
